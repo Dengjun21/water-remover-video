@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec.bak
+*.mp4
+!萌宠赖床动画.mp4
+.env
+*.egg-info/
